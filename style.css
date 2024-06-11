@@ -1,4 +1,8 @@
-header{
+*{margin: 0;
+padding: 0;
+}
+
+.cabeçalho{
     background-color: white;
 color: black;
 }
